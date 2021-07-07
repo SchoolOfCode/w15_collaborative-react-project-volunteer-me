@@ -15,7 +15,7 @@
 	font-weight: bolder;
 	text-decoration:none;
 }
-.button:hover {
+.button:hover, button:focus {
 	background-color:#E50072;
     color: white;
 }
